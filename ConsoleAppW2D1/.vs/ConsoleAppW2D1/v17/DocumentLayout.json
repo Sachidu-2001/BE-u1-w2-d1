@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\fsach\\Desktop\\Epicode\\Back-end\\Unita 1\\Week-2\\Day-1\\BE-u1-w2-d1\\ConsoleAppW2D1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CCF94767-99F5-441C-B582-73FA06D7FDBB}|ConsoleAppW2D1\\ConsoleAppW2D1.csproj|c:\\users\\fsach\\desktop\\epicode\\back-end\\unita 1\\week-2\\day-1\\be-u1-w2-d1\\consoleappw2d1\\consoleappw2d1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CCF94767-99F5-441C-B582-73FA06D7FDBB}|ConsoleAppW2D1\\ConsoleAppW2D1.csproj|solutionrelative:consoleappw2d1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CCF94767-99F5-441C-B582-73FA06D7FDBB}|ConsoleAppW2D1\\ConsoleAppW2D1.csproj|c:\\users\\fsach\\desktop\\epicode\\back-end\\unita 1\\week-2\\day-1\\be-u1-w2-d1\\consoleappw2d1\\consoleappw2d1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCF94767-99F5-441C-B582-73FA06D7FDBB}|ConsoleAppW2D1\\ConsoleAppW2D1.csproj|solutionrelative:consoleappw2d1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF94767-99F5-441C-B582-73FA06D7FDBB}|ConsoleAppW2D1\\ConsoleAppW2D1.csproj|c:\\users\\fsach\\desktop\\epicode\\back-end\\unita 1\\week-2\\day-1\\be-u1-w2-d1\\consoleappw2d1\\consoleappw2d1\\moduls\\cibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF94767-99F5-441C-B582-73FA06D7FDBB}|ConsoleAppW2D1\\ConsoleAppW2D1.csproj|solutionrelative:consoleappw2d1\\moduls\\cibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +31,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\fsach\\Desktop\\Epicode\\Back-end\\Unita 1\\Week-2\\Day-1\\BE-u1-w2-d1\\ConsoleAppW2D1\\ConsoleAppW2D1\\.gitignore",
+              "RelativeDocumentMoniker": "ConsoleAppW2D1\\.gitignore",
+              "ToolTip": "C:\\Users\\fsach\\Desktop\\Epicode\\Back-end\\Unita 1\\Week-2\\Day-1\\BE-u1-w2-d1\\ConsoleAppW2D1\\ConsoleAppW2D1\\.gitignore",
+              "RelativeToolTip": "ConsoleAppW2D1\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-17T16:00:17.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cibo.cs",
+              "DocumentMoniker": "C:\\Users\\fsach\\Desktop\\Epicode\\Back-end\\Unita 1\\Week-2\\Day-1\\BE-u1-w2-d1\\ConsoleAppW2D1\\ConsoleAppW2D1\\Moduls\\Cibo.cs",
+              "RelativeDocumentMoniker": "ConsoleAppW2D1\\Moduls\\Cibo.cs",
+              "ToolTip": "C:\\Users\\fsach\\Desktop\\Epicode\\Back-end\\Unita 1\\Week-2\\Day-1\\BE-u1-w2-d1\\ConsoleAppW2D1\\ConsoleAppW2D1\\Moduls\\Cibo.cs",
+              "RelativeToolTip": "ConsoleAppW2D1\\Moduls\\Cibo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:38:58.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fsach\\Desktop\\Epicode\\Back-end\\Unita 1\\Week-2\\Day-1\\BE-u1-w2-d1\\ConsoleAppW2D1\\ConsoleAppW2D1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleAppW2D1\\Program.cs",
               "ToolTip": "C:\\Users\\fsach\\Desktop\\Epicode\\Back-end\\Unita 1\\Week-2\\Day-1\\BE-u1-w2-d1\\ConsoleAppW2D1\\ConsoleAppW2D1\\Program.cs",
               "RelativeToolTip": "ConsoleAppW2D1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T15:26:31.424Z",
               "EditorCaption": ""

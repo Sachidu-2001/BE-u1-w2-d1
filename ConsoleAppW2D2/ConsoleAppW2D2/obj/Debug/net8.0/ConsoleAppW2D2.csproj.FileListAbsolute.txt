@@ -1,0 +1,15 @@
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week-2\Day-1\BE-u1-w2-d1\ConsoleAppW2D2\ConsoleAppW2D2\bin\Debug\net8.0\ConsoleAppW2D2.exe
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week-2\Day-1\BE-u1-w2-d1\ConsoleAppW2D2\ConsoleAppW2D2\bin\Debug\net8.0\ConsoleAppW2D2.deps.json
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week-2\Day-1\BE-u1-w2-d1\ConsoleAppW2D2\ConsoleAppW2D2\bin\Debug\net8.0\ConsoleAppW2D2.runtimeconfig.json
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week-2\Day-1\BE-u1-w2-d1\ConsoleAppW2D2\ConsoleAppW2D2\bin\Debug\net8.0\ConsoleAppW2D2.dll
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week-2\Day-1\BE-u1-w2-d1\ConsoleAppW2D2\ConsoleAppW2D2\bin\Debug\net8.0\ConsoleAppW2D2.pdb
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week-2\Day-1\BE-u1-w2-d1\ConsoleAppW2D2\ConsoleAppW2D2\obj\Debug\net8.0\ConsoleAppW2D2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week-2\Day-1\BE-u1-w2-d1\ConsoleAppW2D2\ConsoleAppW2D2\obj\Debug\net8.0\ConsoleAppW2D2.AssemblyInfoInputs.cache
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week-2\Day-1\BE-u1-w2-d1\ConsoleAppW2D2\ConsoleAppW2D2\obj\Debug\net8.0\ConsoleAppW2D2.AssemblyInfo.cs
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week-2\Day-1\BE-u1-w2-d1\ConsoleAppW2D2\ConsoleAppW2D2\obj\Debug\net8.0\ConsoleAppW2D2.csproj.CoreCompileInputs.cache
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week-2\Day-1\BE-u1-w2-d1\ConsoleAppW2D2\ConsoleAppW2D2\obj\Debug\net8.0\ConsoleAppW2D2.sourcelink.json
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week-2\Day-1\BE-u1-w2-d1\ConsoleAppW2D2\ConsoleAppW2D2\obj\Debug\net8.0\ConsoleAppW2D2.dll
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week-2\Day-1\BE-u1-w2-d1\ConsoleAppW2D2\ConsoleAppW2D2\obj\Debug\net8.0\refint\ConsoleAppW2D2.dll
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week-2\Day-1\BE-u1-w2-d1\ConsoleAppW2D2\ConsoleAppW2D2\obj\Debug\net8.0\ConsoleAppW2D2.pdb
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week-2\Day-1\BE-u1-w2-d1\ConsoleAppW2D2\ConsoleAppW2D2\obj\Debug\net8.0\ConsoleAppW2D2.genruntimeconfig.cache
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week-2\Day-1\BE-u1-w2-d1\ConsoleAppW2D2\ConsoleAppW2D2\obj\Debug\net8.0\ref\ConsoleAppW2D2.dll
