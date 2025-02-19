@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A4D51677-4356-49F3-9796-13C6FE1D658E}|ConsoleAppW2D2\\ConsoleAppW2D2.csproj|c:\\users\\fsach\\desktop\\epicode\\back-end\\unita 1\\week-2\\day-1\\be-u1-w2-d1\\consoleappw2d2\\consoleappw2d2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4D51677-4356-49F3-9796-13C6FE1D658E}|ConsoleAppW2D2\\ConsoleAppW2D2.csproj|solutionrelative:consoleappw2d2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D51677-4356-49F3-9796-13C6FE1D658E}|ConsoleAppW2D2\\ConsoleAppW2D2.csproj|c:\\users\\fsach\\desktop\\epicode\\back-end\\unita 1\\week-2\\day-1\\be-u1-w2-d1\\consoleappw2d2\\consoleappw2d2\\moduls\\cv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D51677-4356-49F3-9796-13C6FE1D658E}|ConsoleAppW2D2\\ConsoleAppW2D2.csproj|solutionrelative:consoleappw2d2\\moduls\\cv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CV.cs",
+              "DocumentMoniker": "C:\\Users\\fsach\\Desktop\\Epicode\\Back-end\\Unita 1\\Week-2\\Day-1\\BE-u1-w2-d1\\ConsoleAppW2D2\\ConsoleAppW2D2\\Moduls\\CV.cs",
+              "RelativeDocumentMoniker": "ConsoleAppW2D2\\Moduls\\CV.cs",
+              "ToolTip": "C:\\Users\\fsach\\Desktop\\Epicode\\Back-end\\Unita 1\\Week-2\\Day-1\\BE-u1-w2-d1\\ConsoleAppW2D2\\ConsoleAppW2D2\\Moduls\\CV.cs",
+              "RelativeToolTip": "ConsoleAppW2D2\\Moduls\\CV.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAnwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:10:16.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
@@ -28,14 +49,10 @@
               "RelativeDocumentMoniker": "ConsoleAppW2D2\\Program.cs",
               "ToolTip": "C:\\Users\\fsach\\Desktop\\Epicode\\Back-end\\Unita 1\\Week-2\\Day-1\\BE-u1-w2-d1\\ConsoleAppW2D2\\ConsoleAppW2D2\\Program.cs",
               "RelativeToolTip": "ConsoleAppW2D2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T14:05:32.505Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
